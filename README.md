@@ -16,23 +16,7 @@ Artificial Intelligence (AI) is defined as the science and engineering of making
 
 When we talk about AI programs, the key understanding can be derived from comparing it with non-AI programs. A non AI program takes in some input and generates some output based on a certain algorithm. The difference with an AI program is that it is not finished after generating the output. It inserts the output as input once again and hereby trains the underlying model (e.g. adjusting the parameters of the algorithm). For example, if an AI playing a game loses after making a certain move, it will use that information to adjust its strategy. This process is graphically displayed below.
 
-![Shape2](RackMultipart20231108-1-qtmfv8_html_7ed6f41b44d56988.gif) ![Shape1](RackMultipart20231108-1-qtmfv8_html_64c5fa2d33dfdd14.gif)
-
-Input
-
-Algorithm
-
-![Shape5](RackMultipart20231108-1-qtmfv8_html_383920cdc0b1957a.gif)
-
-![Shape8](RackMultipart20231108-1-qtmfv8_html_27466f64ca32b0d6.gif) ![Shape7](RackMultipart20231108-1-qtmfv8_html_b9e84ef0ab5251a6.gif) ![Shape6](RackMultipart20231108-1-qtmfv8_html_daed211b226e3962.gif)
-
-Output
-
-![Shape9](RackMultipart20231108-1-qtmfv8_html_54e951031eba80df.gif)
-
-_Adjust algorithm parameters_
-
-_Figure 1: Process conducted by an AI program_
+_Figure 1: Process conducted by an AI program_ (see image folder fig_1)
 
 ### Characteristics
 
